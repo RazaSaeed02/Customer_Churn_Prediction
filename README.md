@@ -1,4 +1,4 @@
-# Customers_Churn_Prediction
+# Customer_Churn_Prediction
 - The purpose of this project is to predict whether bank customers will churn using multiple machine learning models. 
 - I achieved the best results using the Gradient Boost model. To improve the accuracy I used the SMOTE technique to upsample the imbalanced target class.
 
